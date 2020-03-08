@@ -3,7 +3,7 @@ package dcmi
 import (
 	"context"
 
-	"github.com/gebn/bmc"
+	"github.com/ihciah/bmc"
 )
 
 type sessionlessCommander struct {

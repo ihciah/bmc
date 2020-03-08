@@ -7,7 +7,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/gebn/bmc/pkg/ipmi"
+	"github.com/ihciah/bmc/pkg/ipmi"
 
 	"github.com/google/gopacket"
 )

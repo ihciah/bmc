@@ -3,8 +3,8 @@ package dcmi
 import (
 	"context"
 
-	"github.com/gebn/bmc"
-	"github.com/gebn/bmc/pkg/ipmi"
+	"github.com/ihciah/bmc"
+	"github.com/ihciah/bmc/pkg/ipmi"
 )
 
 var (

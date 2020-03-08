@@ -7,8 +7,8 @@ import (
 	"hash"
 	"time"
 
-	"github.com/gebn/bmc/pkg/ipmi"
-	"github.com/gebn/bmc/pkg/layerexts"
+	"github.com/ihciah/bmc/pkg/ipmi"
+	"github.com/ihciah/bmc/pkg/layerexts"
 
 	"github.com/cenkalti/backoff"
 	"github.com/google/gopacket"

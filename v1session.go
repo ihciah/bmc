@@ -1,7 +1,7 @@
 package bmc
 
 import (
-	"github.com/gebn/bmc/pkg/ipmi"
+	"github.com/ihciah/bmc/pkg/ipmi"
 
 	"github.com/google/gopacket/layers"
 )

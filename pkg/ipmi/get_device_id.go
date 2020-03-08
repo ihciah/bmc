@@ -4,8 +4,8 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/gebn/bmc/internal/pkg/bcd"
-	"github.com/gebn/bmc/pkg/iana"
+	"github.com/ihciah/bmc/internal/pkg/bcd"
+	"github.com/ihciah/bmc/pkg/iana"
 
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"

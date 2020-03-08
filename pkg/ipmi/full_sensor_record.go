@@ -3,7 +3,7 @@ package ipmi
 import (
 	"fmt"
 
-	"github.com/gebn/bmc/internal/pkg/complement"
+	"github.com/ihciah/bmc/internal/pkg/complement"
 
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"

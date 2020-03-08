@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/gebn/bmc/pkg/ipmi"
+	"github.com/ihciah/bmc/pkg/ipmi"
 
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/gopacket"

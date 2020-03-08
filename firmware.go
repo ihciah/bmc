@@ -4,8 +4,8 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/gebn/bmc/pkg/iana"
-	"github.com/gebn/bmc/pkg/ipmi"
+	"github.com/ihciah/bmc/pkg/iana"
+	"github.com/ihciah/bmc/pkg/ipmi"
 )
 
 // FirmwareVersion builds a firmware version string using all information

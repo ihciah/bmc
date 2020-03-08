@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/gebn/bmc/internal/pkg/transport"
-	"github.com/gebn/bmc/pkg/ipmi"
+	"github.com/ihciah/bmc/internal/pkg/transport"
+	"github.com/ihciah/bmc/pkg/ipmi"
 )
 
 var (
